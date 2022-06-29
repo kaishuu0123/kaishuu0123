@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=kaishuu0123&show_icons=true&line_height=24" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaishuu0123&hide=C,C%2B%2B,html,CSS,JavaScript,Assembly,Scilab,PHP,Python&layout=compact />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaishuu0123&hide=C,C%2B%2B,html,CSS,JavaScript,Assembly,Scilab,PHP,Python&layout=compact" />
 </div>
