@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Github](https://img.shields.io/github/followers/kaishuu0123?label=Follow&style=social)](https://github.com/kaishuu0123)
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=kaishuu0123&show_icons=true&line_height=24" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaishuu0123&hide=C,C%2B%2B,html,CSS,JavaScript,Assembly,Scilab,PHP,Python&langs_count=8&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaishuu0123&hide=C,C%2B%2B,html,CSS,JavaScript,Assembly,Scilab,PHP,Python&layout=compact />
 </div>
