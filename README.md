@@ -1,4 +1,4 @@
-### Hi there 👋 I'm kaishuu0123
+### About
 
 <!--
 **kaishuu0123/kaishuu0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
 ### 🌱 Social
 <p align="left"> 
-  <a href="http://twitter.com/kaishuu0123">
-    <img height="20" src="https://img.shields.io/twitter/follow/kaishuu0123?label=Twitter&logo=twitter&style=flat" />
+  <a href="https://x.com/kaishuu0123">
+    <img src="https://img.shields.io/twitter/follow/kaishuu0123" />
   </a>
   <a href="https://github.com/kaishuu0123">
-    <img height="20" src="https://img.shields.io/github/followers/kaishuu0123?label=follow&logo=github&style=flat" />
+    <img src="https://img.shields.io/github/followers/kaishuu0123?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://www.reddit.com/user/kaishuu0123">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/kaishuu0123?label=Reddit&logo=reddit&style=flat" />
+    <img src="https://img.shields.io/reddit/user-karma/combined/kaishuu0123?label=Reddit&logo=reddit&style=flat" />
   </a>
   <a href="https://zenn.dev/kaishuu0123">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/kaishuu0123/articles" />
+    <img src="https://zenn.badge.nikaera.com/s/kaishuu0123/articles" />
   </a>
   <a href="http://qiita.com/kaishuu0123">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kaishuu0123/posts.svg" />
+    <img src="https://qiita-badge.apiapi.app/s/kaishuu0123/posts.svg" />
   </a>
 </p>
 
