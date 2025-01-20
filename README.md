@@ -36,9 +36,15 @@ Here are some ideas to get you started:
 
 ### 📈 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaishuu0123&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaishuu0123&hide=C,C%2B%2B,html,CSS,JavaScript,Assembly,Scilab,PHP,Python&langs_count=8&layout=compact" />
+<div class="col-12">
+  <div class="col-6">
+    <img src="https://github-readme-stats.vercel.app/api?username=kaishuu0123&show_icons=true" />
+  </div>
+  
+  <div class="col-6">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaishuu0123&hide=C,C%2B%2B,html,CSS,JavaScript,Assembly,Scilab,PHP,Python&langs_count=8&layout=compact" />
+  </div>
+</div>
 
 <p align="left"> 
   <a href="https://github.com/kaishuu0123/kaishuu0123/">
