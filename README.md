@@ -26,12 +26,6 @@ Here are some ideas to get you started:
   <a href="https://www.reddit.com/user/kaishuu0123">
     <img src="https://img.shields.io/reddit/user-karma/combined/kaishuu0123?label=Reddit&logo=reddit&style=flat" />
   </a>
-  <a href="https://zenn.dev/kaishuu0123">
-    <img src="https://zenn.badge.nikaera.com/s/kaishuu0123/articles" />
-  </a>
-  <a href="http://qiita.com/kaishuu0123">
-    <img src="https://qiita-badge.apiapi.app/s/kaishuu0123/posts.svg" />
-  </a>
 </p>
 
 ### 📈 Stats
