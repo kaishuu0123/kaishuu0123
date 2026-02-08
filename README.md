@@ -1,5 +1,3 @@
-### About
-
 <!--
 **kaishuu0123/kaishuu0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 Hi there, I'm kaishuu0123
+
+Software engineer with a focus on Web Development (Rails / React) and with a background in low-level systems.
+
+- 💎 **Main Stack:** Ruby on Rails, React, TypeScript
+- ⚙️ **Background:** C
+- 🦀 **Hobby:** Rust, Go
 
 ### 🌱 Social
 <p align="left"> 
