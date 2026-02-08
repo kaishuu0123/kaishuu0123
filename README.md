@@ -15,24 +15,15 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there, I'm kaishuu0123
 
-Software engineer with a focus on Web Development (Rails / React) with a background in low-level systems.
+Software engineer with a focus on Web Development (Rails / React) with a background in low-level systems and networking.
 
 - 💎 **Main Stack:** Ruby on Rails, React, TypeScript
-- ⚙️ **Background:** C
+- ⚙️ **Background:** C (Unix-like systems & networking), Makefile (Build Automation)
 - 🦀 **Hobby:** Rust, Go
 
-### 🌱 Social
-<p align="left"> 
-  <a href="https://x.com/kaishuu0123">
-    <img src="https://img.shields.io/twitter/follow/kaishuu0123" />
-  </a>
-  <a href="https://github.com/kaishuu0123">
-    <img src="https://img.shields.io/github/followers/kaishuu0123?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://www.reddit.com/user/kaishuu0123">
-    <img src="https://img.shields.io/reddit/user-karma/combined/kaishuu0123?label=Reddit&logo=reddit&style=flat" />
-  </a>
-</p>
+### 🌐 Socials
+- **X (Twitter):** [@kaishuu0123](https://x.com/kaishuu0123)
+- **Reddit:** [u/kaishuu0123](https://www.reddit.com/user/kaishuu0123)
 
 ### 📈 Stats
 
