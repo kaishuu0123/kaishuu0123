@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there, I'm kaishuu0123
 
-Software engineer with a focus on Web Development (Rails / React) and with a background in low-level systems.
+Software engineer with a focus on Web Development (Rails / React) with a background in low-level systems.
 
 - 💎 **Main Stack:** Ruby on Rails, React, TypeScript
 - ⚙️ **Background:** C
